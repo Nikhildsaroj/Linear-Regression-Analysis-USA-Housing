@@ -1,7 +1,7 @@
 
- Linear-Regression-Analysis-USA-Housing
+ ### Linear-Regression-Analysis-USA-Housing
 
- Description:
+###  Description:
 This project utilizes linear regression analysis on the USA housing dataset consisting of 1000 data points to predict housing prices. By employing machine learning techniques, particularly linear regression, we aim to understand the relationship between various features of the housing dataset and their impact on housing prices.
 
 ### Key Details:
@@ -20,6 +20,4 @@ The project involves preprocessing the dataset, including handling missing value
 ### Instructions:
 To replicate the analysis and explore the predictive capabilities of linear regression on the USA housing dataset, clone this repository and run the provided Jupyter Notebook. Feel free to experiment with different features and parameters to further enhance the model's performance.
 
----
 
-Feel free to customize this description further to include any additional details or insights you'd like to share about your project.
